@@ -26,20 +26,6 @@ function App() {
   };
 
   return (
-    // <div>
-    //   <h1>The Coins! {loading ? "" : `(${coins.length})`}</h1>
-    //   {loading ? (
-    //     <strong>Loading...</strong>
-    //   ) : (
-    //     <ul>
-    //       {coins.map((item) => (
-    //         <li key={item.id}>
-    //           {item.name} ({item.symbol}): ${item.quotes.USD.price} USD
-    //         </li>
-    //       ))}
-    //     </ul>
-    //   )}
-    // </div>
     <div>
       <h1>The Coins! {loading ? "" : `(${coins.length})`}</h1>
       {loading ? (
@@ -55,6 +41,7 @@ function App() {
               min="0"
             />
           </form>
+
           <select onChange={onSelect}>
             {coins.map((item) => (
               <option key={item.id}>
@@ -62,12 +49,10 @@ function App() {
               </option>
             ))}
           </select>
-          {("coin : ", console.log(coin))}
+
           <h2>
             You can buy {money / coin.quotes.USD.price} {coin.symbol}
           </h2>
-          {/* <h2>You can buy {console.log(typeof coins[0])}</h2>
-          <h2>You can buy {console.log(coins[0])}</h2> */}
         </div>
       )}
     </div>
