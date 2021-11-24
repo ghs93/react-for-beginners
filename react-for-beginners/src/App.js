@@ -13,6 +13,7 @@ function App() {
         setCoins(json);
         setCoin(json[0]);
         setLoading(false);
+        console.log("");
       });
   }, []);
 
