@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/react-for-beginners/static/js/main.d67e9de2.chunk.js",
-    "main.js.map": "/react-for-beginners/static/js/main.d67e9de2.chunk.js.map",
-    "runtime-main.js": "/react-for-beginners/static/js/runtime-main.f7988b3d.js",
-    "runtime-main.js.map": "/react-for-beginners/static/js/runtime-main.f7988b3d.js.map",
-    "static/js/2.e50cd3f4.chunk.js": "/react-for-beginners/static/js/2.e50cd3f4.chunk.js",
-    "static/js/2.e50cd3f4.chunk.js.map": "/react-for-beginners/static/js/2.e50cd3f4.chunk.js.map",
-    "index.html": "/react-for-beginners/index.html",
-    "static/js/2.e50cd3f4.chunk.js.LICENSE.txt": "/react-for-beginners/static/js/2.e50cd3f4.chunk.js.LICENSE.txt"
+    "main.js": "/react-for-beginners/react-for-beginners/static/js/main.d67e9de2.chunk.js",
+    "main.js.map": "/react-for-beginners/react-for-beginners/static/js/main.d67e9de2.chunk.js.map",
+    "runtime-main.js": "/react-for-beginners/react-for-beginners/static/js/runtime-main.9e2bada5.js",
+    "runtime-main.js.map": "/react-for-beginners/react-for-beginners/static/js/runtime-main.9e2bada5.js.map",
+    "static/js/2.e50cd3f4.chunk.js": "/react-for-beginners/react-for-beginners/static/js/2.e50cd3f4.chunk.js",
+    "static/js/2.e50cd3f4.chunk.js.map": "/react-for-beginners/react-for-beginners/static/js/2.e50cd3f4.chunk.js.map",
+    "index.html": "/react-for-beginners/react-for-beginners/index.html",
+    "static/js/2.e50cd3f4.chunk.js.LICENSE.txt": "/react-for-beginners/react-for-beginners/static/js/2.e50cd3f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7988b3d.js",
+    "static/js/runtime-main.9e2bada5.js",
     "static/js/2.e50cd3f4.chunk.js",
     "static/js/main.d67e9de2.chunk.js"
   ]
